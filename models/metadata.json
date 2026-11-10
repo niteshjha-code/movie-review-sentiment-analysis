@@ -1,0 +1,4 @@
+{
+  "model": "Linear SVM",
+  "test_accuracy": 0.8938
+}

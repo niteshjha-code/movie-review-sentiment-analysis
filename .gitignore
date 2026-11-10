@@ -1,0 +1,11 @@
+# Environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset (re-download from Hugging Face, see README)
+data/raw/
+
+# Personal notes (not part of the project)
+CHAT_NOTES.md
+INTERVIEW_QA.md
